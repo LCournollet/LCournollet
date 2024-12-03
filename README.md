@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ATLAS for TDI - Transfert Développement Informatique (https://www.tdi-group.com/fr/) <br>🌱 I’m currently learning React.js and Rust
+🔭 I’m currently working on ATLAS for TDI - Transfert Développement Informatique (https://www.tdi-group.com/fr/) <br>
 
 
 ## 🌐 Socials:
