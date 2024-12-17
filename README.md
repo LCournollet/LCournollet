@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Louis Cournollet Rodriguez
+# 🦆 Salut, je suis Louis Cournollet Rodriguez
 
 Je suis développeur full-stack passionné par les technologies modernes et l'amélioration continue. Actuellement, je travaille sur **ATLAS** chez **TDI - Transfert Développement Informatique** ([TDI](https://www.tdi-group.com/fr/)).
 
