@@ -1,48 +1,49 @@
-# 🦆 Salut, je suis Louis Cournollet Rodriguez
+# Hey, I'm Louis 👋
 
-Je suis développeur full-stack passionné par les technologies modernes et l'amélioration continue. Actuellement, je travaille sur **ATLAS** chez **TDI - Transfert Développement Informatique** ([TDI](https://www.tdi-group.com/fr/)).
+Full-stack dev working mostly with **C# / .NET** and **Python**.
+Currently building **ATLAS** over at [TDI](https://www.tdi-group.com/fr/), with 3 years in the .NET ecosystem.
 
----
+I lean heavily on AI tooling (Claude Code, Codex, Copilot) in my day-to-day and love trying out new tools and models as soon as they drop.
 
-## 🚀 Compétences techniques
-
-### Langages de programmation
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-### Frameworks & outils
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat&logo=azuredevops&logoColor=white)
-
-### Base de données
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+On the side, I build **World of Warcraft addons** 🐉 and tinker with bots and small game projects.
 
 ---
 
-## 🌍 Retrouvez-moi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-cournolletrodriguez/)
+### Languages
+![C#](https://img.shields.io/badge/C%23-2b2b2b?style=flat-square&logo=csharp&logoColor=cccccc)
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=cccccc)
+![Go](https://img.shields.io/badge/Go-2b2b2b?style=flat-square&logo=go&logoColor=cccccc)
+![Lua](https://img.shields.io/badge/Lua-2b2b2b?style=flat-square&logo=lua&logoColor=cccccc)
+![Java](https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=cccccc)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=cccccc)
+![PHP](https://img.shields.io/badge/PHP-2b2b2b?style=flat-square&logo=php&logoColor=cccccc)
+
+### Frameworks & tools
+![.NET](https://img.shields.io/badge/.NET-2b2b2b?style=flat-square&logo=dotnet&logoColor=cccccc)
+![Blazor](https://img.shields.io/badge/Blazor-2b2b2b?style=flat-square&logo=blazor&logoColor=cccccc)
+![Docker](https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=cccccc)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2b2b2b?style=flat-square&logo=azuredevops&logoColor=cccccc)
+![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=cccccc)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2b2b2b?style=flat-square&logo=microsoftsqlserver&logoColor=cccccc)
+![MariaDB](https://img.shields.io/badge/MariaDB-2b2b2b?style=flat-square&logo=mariadb&logoColor=cccccc)
+![MySQL](https://img.shields.io/badge/MySQL-2b2b2b?style=flat-square&logo=mysql&logoColor=cccccc)
+![MongoDB](https://img.shields.io/badge/MongoDB-2b2b2b?style=flat-square&logo=mongodb&logoColor=cccccc)
 
 ---
 
-## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LCournollet&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCournollet&theme=nightowl&hide_border=true&layout=compact)
+### Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=cccccc)](https://www.linkedin.com/in/louis-cournolletrodriguez/)
 
 ---
 
-## 💼 Mon engagement et contributions
-[![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=LCournollet&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/LCournollet)
+### GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LCournollet&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LCournollet&theme=nightowl&hide_border=true&layout=compact)
 
 ---
 
-## ☕ Vous appréciez mon travail ?
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lcournollet)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LouisN2)
+### Like my work?
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-2b2b2b?style=flat-square&logo=buymeacoffee&logoColor=cccccc)](https://www.buymeacoffee.com/lcournollet)
+[![PayPal](https://img.shields.io/badge/PayPal-2b2b2b?style=flat-square&logo=paypal&logoColor=cccccc)](https://paypal.me/LouisN2)
