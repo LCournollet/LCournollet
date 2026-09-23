@@ -1,42 +1,62 @@
-# Hey, I'm Louis 👋
+# Hey, I'm Louis
 
-Full-stack dev working mostly with **C# / .NET** and **Python**.
-Currently building **ATLAS** over at [TDI](https://www.tdi-group.com/fr/), with 3 years in the .NET ecosystem.
+Full-stack dev working mostly with **C# / .NET** and **Python**. 3 years in the .NET ecosystem.
 
-I lean heavily on AI tooling (Claude Code, Codex, Copilot) in my day-to-day and love trying out new tools and models as soon as they drop.
+On the side, I build game tools and small projects: a WoW UI suite, a League of Legends scouting tool and an Elden Ring build platform.
 
-On the side, I build **World of Warcraft addons** 🐉 and tinker with bots and small game projects.
+<img src="./readme/divider.svg" width="100%" alt="">
 
----
+### Projects
+
+<a href="https://github.com/LCournollet/NUI">
+  <img src="./readme/nui-card.svg" alt="NUI — a clean, modern UI suite for World of Warcraft" width="100%">
+</a>
+
+<a href="https://stlkr.com">
+  <img src="./readme/stlkr-card.svg" alt="STLKR — Patterns leave traces. Read any League of Legends jungler's habits." width="100%">
+</a>
+
+<a href="https://eldenforge.fr">
+  <img src="./readme/eldenforge-card.svg" alt="Elden Forge — explore and share Elden Ring builds" width="100%">
+</a>
+
+<img src="./readme/divider.svg" width="100%" alt="">
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-21262D?style=for-the-badge" alt="C#">
+  <img src="https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-21262D?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Lua-21262D?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-21262D?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
 
 ### Frameworks & tools
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat-square&logo=blazor&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-21262D?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Blazor-21262D?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-21262D?style=for-the-badge" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ### Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-21262D?style=for-the-badge" alt="SQL Server">
+  <img src="https://img.shields.io/badge/MariaDB-21262D?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/MySQL-21262D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-21262D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
-### Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=cccccc)](https://www.linkedin.com/in/louis-cournolletrodriguez/)
-
----
+<img src="./readme/divider.svg" width="100%" alt="">
 
 ### Like my work?
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-2b2b2b?style=flat-square&logo=buymeacoffee&logoColor=cccccc)](https://www.buymeacoffee.com/lcournollet)
-[![PayPal](https://img.shields.io/badge/PayPal-2b2b2b?style=flat-square&logo=paypal&logoColor=cccccc)](https://paypal.me/LouisN2)
+
+<p>
+  <a href="https://buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-21262D?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
+  <a href="https://paypal.me/"><img src="https://img.shields.io/badge/PayPal-21262D?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+</p>
