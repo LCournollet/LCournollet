@@ -53,10 +53,3 @@ On the side, I build game tools and small projects: a WoW UI suite, a League of 
 </p>
 
 <img src="./readme/divider.svg" width="100%" alt="">
-
-### Like my work?
-
-<p>
-  <a href="https://buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-21262D?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
-  <a href="https://paypal.me/"><img src="https://img.shields.io/badge/PayPal-21262D?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
-</p>
