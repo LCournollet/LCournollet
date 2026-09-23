@@ -8,7 +8,7 @@ On the side, I build game tools and small projects: a WoW UI suite, a League of 
 
 ### Projects
 
-<a href="https://github.com/LCournollet/NUI">
+<a href="https://nuiwow.com/">
   <img src="./readme/nui-card.svg" alt="NUI — a clean, modern UI suite for World of Warcraft" width="100%">
 </a>
 
