@@ -9,7 +9,7 @@ On the side, I build game tools and small projects: a WoW UI suite, a League of 
 ### Projects
 
 <a href="https://nuiwow.com/">
-  <img src="./readme/nui-card.svg" alt="NUI — a clean, modern UI suite for World of Warcraft" width="100%">
+  <img src="./readme/nui-card.svg?v=2" alt="NUI — a clean, modern UI suite for World of Warcraft" width="100%">
 </a>
 
 <a href="https://stlkr.pro">
