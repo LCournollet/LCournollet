@@ -12,7 +12,7 @@ On the side, I build game tools and small projects: a WoW UI suite, a League of 
   <img src="./readme/nui-card.svg" alt="NUI — a clean, modern UI suite for World of Warcraft" width="100%">
 </a>
 
-<a href="https://stlkr.com">
+<a href="https://stlkr.pro">
   <img src="./readme/stlkr-card.svg" alt="STLKR — Patterns leave traces. Read any League of Legends jungler's habits." width="100%">
 </a>
 
