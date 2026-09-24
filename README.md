@@ -16,6 +16,10 @@ On the side, I build game tools and small projects: a WoW UI suite, a League of 
   <img src="./readme/stlkr-card.svg" alt="STLKR — Patterns leave traces. Read any League of Legends jungler's habits." width="100%">
 </a>
 
+<a href="https://mhodume.com">
+  <img src="./readme/mhodume-card.svg" alt="mhodume — mod menu for VHOLUME" width="100%">
+</a>
+
 <a href="https://eldenforge.fr">
   <img src="./readme/eldenforge-card.svg" alt="Elden Forge — explore and share Elden Ring builds" width="100%">
 </a>
